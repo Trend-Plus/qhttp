@@ -1,6 +1,5 @@
 # QHttp
 
-
 ### Table of contents
 - [About](#about)
 - [Sample codes](#sample-codes)
